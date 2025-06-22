@@ -1287,11 +1287,27 @@ if (context.getApplicationInfo().targetSdkVersion >= Build.VERSION_CODES.VANILLA
 
 * Android/data 目录适配
 
-    * [Android 11 无 Root 访问 data 目录实现、Android 11 访问 data 目录、Android 11 解除 data 目录限制、Android 11 data 空白解决](https://blog.csdn.net/qq_17827627/article/details/113931692)
+    * [Android 11 无 Root 访问 data 目录实现、Android 11 访问 data 目录、Android 11 解除 data 目录限制、Android 11 data 空白解决](https://blog.csdn.net/qq_26280383/article/details/113995727)
 
     * [知乎回答：如何评价在 Android11 中，/Android/data 文件夹无法读写？](https://www.zhihu.com/question/420023759)
 
+    * [浅析 Android/data 的访问](https://zhuanlan.zhihu.com/p/704594199)
+
     * [Android 11 适配- 实现清理其他应用缓存目录](https://blog.csdn.net/u013700040/article/details/115066778)
+
+    * [Android R 如何访问Android/data目录](https://blog.csdn.net/cmyperson/article/details/120015213)
+
+    * [Android 5.0 ~ 14访问Android/data(obb)目录的方法](https://blog.csdn.net/gjc91126/article/details/136574829)
+
+    * [SAF（Storage Access Framework）使用攻略](https://juejin.cn/post/6844904058743078919)
+
+    * [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
+
+    * [androidDataWithoutRootAPI33](https://github.com/folderv/androidDataWithoutRootAPI33)
+
+    * [androidDataTools](https://github.com/rycysm/androidDataTools)
+
+    * 通过反编译查看其他 App 如何适配：清浊、Es 文件浏览器、FV 文件管理器、安卓清理君
 
 * 其他适配
 
